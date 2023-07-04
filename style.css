@@ -166,5 +166,8 @@
     .gallery-3{
         width: 100% !important;
     }
+    .items img{
+        width: 200vw;
+    }
     
   }
